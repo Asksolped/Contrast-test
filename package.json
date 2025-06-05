@@ -16,7 +16,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "tailwindcss": "^4.1.4",
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^6.3.3",
     "typescript": "^5.8.3"
